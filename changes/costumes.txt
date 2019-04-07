@@ -1,0 +1,157 @@
+########################################
+Characters + Skins + Portraits:
+########################################
+
+00-Mario
+FitMarioAltZ:  changed to Ice Mario Color by Moe
+
+01-Donkey Kong
+FitDonkeyAltZ: changed to Mango DK by TNC Wumb0 with credit to Choice Scarf for the Mango Boxer Donkey Kong Recolor, Robotic Cyborg for the original textures
+
+02-Link
+N/A
+
+03-Samus
+FitSamusAltZ: changed to Phazon Suit by SJS, Nanobuds
+
+04-Yoshi
+FitYoshiAltR: changed to Project M Unlocked- Pirateland Yoshi by TOCK [edited by TNC | Wumb0]
+
+05-Kirby
+FitKirbyAltZ: changed to CHiP! Custom Kirby (AZPM Build) by Ca$ino Wolf, Vinegar
+
+06-Fox
+FitFoxAltR: changed to Goku Fox by bizzozeron with credit to Bandai or something for the Goku model, PMDT for the Melee Fox skin
+
+07-Pikachu
+N/A
+
+08-Luigi
+FitLuigiAltZ: changed to Sunshine Luigi by LenSho
+
+09-Captain Falcon
+FitCaptainAltR: changed to Brawlified All Might Falcon by TNC | Wumb0 with credit to Mugen SSB for the original textures, CallMeKaaze for porting to Brawl
+FitCaptainAltZ: changed to Captain America Falcon (Brawl) by KorytheMaril, AlGeorgeRomo [scarf texture edited by TNC | Wumb0]
+
+10-Ness
+FitNessAltR: changed to Sans by DoctorFlux(Mariodk) with credit to Project:M Devs, Pipann, CSProject
+FitNessAltZ: changed to Retrowave Ness by Chucklez with credit to CSProject for CSPs, KorytheMaril for screenshots
+
+11-Bowser
+FitKoopaAltR: changed to Giga by dRage
+FitKoopaAltZ: changed to Black Paint Bowser v2 by KorytheMaril, Xenthos, Ubergruvin with credit to Heavy King Chuckles for screencaps
+
+12-Peach
+FitPeachAltR: changed to Bowsette by Ryztiq, StarWaffle
+
+13-Zelda
+FitZeldaAltR: changed to Zelda (Hyrule Warriors) by iwantgames with credit to DSX8, Xenthos, Shy, Crazz, popthekirby,
+FitZeldaAltZ: changed to SSB4 White Zelda [Zelda & Sheik Recolor Pack by Moe]
+
+14-Sheik
+FitSheikAltR: changed to Sheik (Hyrule Warriors) by iwantgames
+FitSheikAltZ: changed to SSB4 White Sheik [Zelda & Sheik Recolor Pack by Moe]
+
+15-Ice Climbers
+FitPopoAltZ: changed to Techboy's Ice Climbers by Michigan PR
+FitPopoAltR: changed to Phresh's custom IC's by NY/NJ PR
+
+16-Marth
+FitMarthAltZ: changed to UPDATE - Marth Brown Color by Moe with credit to The Cosmetic Standarization Project for the pose
+
+17-Mr. Game & Watch
+FitGameWatchAltZ: changed to Marshall's custom G&W [Project M 3.6 Game and Watch Discord Skins by Pikmon, TheDarkMysteryMan with credit to Mr. Watch and Learn TheDarkMysteryMan]
+
+18-Falco
+FitFalcoAltR: changed to Saiyan Armor Falco by bizzozeron with credit to PMDT for Melee Falco HD, Bandai for Vegeta Models
+FitFalcoAltZ: changed to Badman Falco by jetfantastic with credit to PMDT for Melee Falco and CSBR's CSProject for cosmetics.
+
+19-Ganondorf
+FitGanonAltR: changed to Mint Oreo Ganon by TNC | Wumb0 with credit to MetalLegacy for the original textures
+
+21-Meta Knight
+FitMetaknightAltZ: changed to Golden Butterfly Meta Knight by jetfantastic, davidvkimball with credit to The PMDT for Butterfly Meta Knight
+
+22-Pit
+FitPitAltR: changed to Black SSB4 [Pit Recolor Pack by Moe with credit to Smash 3C for the Purple and Light Green color]
+FitPitAltZ: changed to Cyan SSB4 [Pit Recolor Pack by Moe with credit to Smash 3C for the Purple and Light Green color]
+
+23-Zero Suit Samus
+FitSZeroSuitAltR: changed to Super ZSS [CSProject 6 Pack (and more) by Shranux with credit to Terror, RaitoEX,LnktheWolf, StarWaffle, Nanobuds, Mach 7, ChucklesDemKnuckles, LuminousWarrior, Sub, Vapor, Tock, Ishmael205, Spex120, Eternal_Yoshi, TheRealHeroOfWinds, NickirixXT, shyguybuddy11, Moe, Unit, marioking64DS, Theytah, jiang, Pik, Albafika, KingJigglypuff, SJS, Spex130, Sandfall, DavidVKimball, MetalLegacy, EggTimer, tryptech, Xenthos, Kuro, Moblin, Sylv, Renegade Jade, Nefnoj, Layell, Moblin, ledgerewskie, Kurukato87, Program, Aghanim, Sylv, MaybeGreg, Dr., Nezha,Brawl Minus]
+
+24-Olimar
+FitPikminAltR: changed to Daft Punk Olimar (Dotcom) by Psycho_Ghost, Nanobuds, Ryztiq, Nefnoj, LnktheWolf
+
+25-Lucas
+FitLucasAltR: changed to Jawstin's custom Lucas by SoCal PR [edited by TNC | Wumb0]
+FitLucasAltZ: changed to Jimmy Neutron Lucas by TNC | Wumb0
+
+26-Diddy Kong
+FitDiddyAltR: Luck's custom Diddy by Texas PR
+FitDiddyAltZ: changed to Super Diddy Kong by Moe
+
+27-Mewtwo
+FitMewtwoAltR: changed to Shadow Mewtwo (PM) by Moblin, davidvkimball with credit to Moe, Jaystring
+FitMewtwoAltZ: changed to Armored Frieza [Frieza Race Recolors by TNC | Wumb0 with credit to Sub for the ideas]
+
+28-Charizard
+FitPokeLizardonAltR: changed to Shadow Charizard by TNC | Wumb0 with credit to Theytah for the original textures
+FitPokeLizardonAltZ: changed to Mewtwo's Charizard by Rog
+
+29-Squirtle
+FitPokeZenigameAltR: changed to Ninja Squirtle by StarWaffle [edited by Legacy TE devs]
+FitPokeZenigameAltZ: changed to Squirtle Clone (SquirtleTwo) by Rog
+
+30-Ivysaur
+FitPokeFushigisouAltR: changed to Machiavelli's custom Ivy by SoCal PR
+FitPokeFushigisouAltZ: changed to Mewtwo's Ivysaur. by Rog
+
+31-Dedede
+FitDededeAltR: changed to Summer Dedede by Ubergruvin with credit to Smash 2 for the base model.
+FitDededeAltZ: changed to Hanafuda Dedede by Kazoomageddon with credit to CSProject for the cosmetics, and the dudes on the CBM Discord server for being real cool
+
+32-Lucario
+FitLucarioAltR: changed to $wift's custom Lucario by SoCal PR
+FitLucarioAltZ: changed to Custom Lucario by Ca$ino Wolf with credit to RoboticCyborg & Hamzr Bruh for the Color as a base and FingerStripes for some of the details
+
+33-Ike
+FitIkeAltR: changed to Greil Ike by AlGeorgeRomo, Mach 7
+FitIkeAltZ: changed to Purple Ike by Sub, StarWaffle with credit to CSProject
+
+34-R.O.B.
+FitRobotAltR: changed to Sneez's custom ROB by SoCal PR
+FitRobotAltZ: changed to Mint & White [R.O.B. Recolor Pack by Moe]
+
+36-Jigglypuff
+FitPurinAltR: changed to King Jigglypuff by Cotton Candy 2C with credit to SneakyKNG and IDLion, for testing it out.
+FitPurinAltZ: changed to Bigglypuff by Vinegar
+
+37-Wario
+FitWarioAltZ: changed to Brawlified Summer Wario by TNC | Wumb0 with credit to tyleto, Wafted, landsend12, Smash 3C Team
+
+39-Roy
+FitRoyAltR: changed to Brawlified Smash 2 Beta Roy Sheathless by Char, Moe
+FitRoyAltZ: changed to S4/PM/AW Homura Akemi Roys by FluffyGomez with credit to Jaystring for the several Roys and Moblin for the Optimized Wii U Roy
+
+40-Toon Link
+FitToonLinkAltR: changed to J'haira's Toon Link by Michigan PR
+FitToonLinkAltZ: changed to Shadow Toon Link [Toon Link Recolor Pack by Moe]
+
+43-Wolf
+FitWolfAltR: changed to Biker Wolf by TNC | Wumb0 with credit to Naxshe for the original textures, JoeTE (for the Melee Intro / StarFox 64 styled outfit), Mewtwo2000 (for the transparent metal shader)
+FitWolfAltZ: changed to Retro Wolf Smash Ultimate Color by Moe
+
+44-Giga Bowser
+FitGKoopaAltR: changed to Giga Bowser, but in Bowser's actual colors by AaronCh58
+FitGKoopaAltZ: changed to Black Paint Giga Bowser by KorytheMaril, Xenthos, Ubergruvin
+
+45-Snake
+FitSnakeAltR: changed to Naked Snake [MGS3 Snake Pack by jaystring]
+FitSnakeAltZ: changed to Smash Ultimate Black Snake Recolor by VirtualBeef with credit to jaystring for materials and shaders references from their smash 4 zero suit samus port, CS Project for the blend files used for the CS Project Cosmetics
+
+46-Sonic
+FitSonicAltR: changed to Smash 2 Sonic for PM by Layell with credit to AlGeorgeRomo and the Smash 2 Team for the model
+FitSonicAltZ: changed to The True, Definitive, Number One vBrawl Super Sonic™ by KingJigglypuff
+
+66-Wario Man
+N/A

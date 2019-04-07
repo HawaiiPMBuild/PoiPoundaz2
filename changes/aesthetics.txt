@@ -1,0 +1,41 @@
+########################################
+Color Animations and Textures:
+########################################
+
+New Menu Textures
+
+Xmu_menumain.pac
+	MenuMain_en -> Texture Data [14] -> MenSpecial04_E03
+	MenuMain_en -> Misc Data [1]
+
+
+
+Misc Data [3] -> Textures(NW4R) -> bg_stars01
+Misc Data [3] -> Textures(NW4R) -> bg_stars03
+
+
+New Shield Texture
+
+common3.pac
+	ef_common -> Texture Data [0] -> eff_cmn_shieldA
+
+
+New Color Animations
+
+mu_menumain.pac
+	Misc Data [0] -> AnmClr(NW4R) -> MenSelMapCursorA -> cursorAM -> LightChannel0MaterialColor
+	Misc Data [0] -> AnmClr(NW4R) -> MenSelMapCursorB -> cursorBM -> LightChannel0MaterialColor
+
+sc_selcharacter.pac
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrBack_TopN -> Bacl01 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrChuman4_TopN__5 -> Card11 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrPanel_TopN__0 -> Panel01 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrPanel_TopN__1 -> Panel01 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrReady_TopN__1 -> lambert148 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrReady_TopN__2 -> lambert148 -> LightChannel0MaterialColor
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrRhold_TopN__0 -> lambert110-> LightChannel0MaterialColor	
+	Misc Data [30] -> AnmClr(NW4R) -> MenSelchrRule_TopN__0 -> lambert102 -> LightChannel0MaterialColor
+
+sc_selmap.pac
+	Misc Data [20] -> AnmClr(NW4R) -> MenSelmapBack -> backcolorM -> LightChannel0MaterialColor
+	Misc Data [20] -> AnmClr(NW4R) -> MenSelmapLoading_TopN__0 -> lambert218 -> LightChannel0MaterialColor

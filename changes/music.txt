@@ -1,0 +1,97 @@
+mu_menumain.pac -> Misc Data [7]
+info.pac -> Misc Data [140]
+
+***Wario Land - 8
+
+M01	Android 16 (Dragon Ball FighterZ)
+M02	Gotenks (Dragon Ball FighterZ)
+M08	Nappa (Dragon Ball FighterZ)
+M07	Wasteland (Dragon Ball FighterZ)
+M06	West City (Dragon Ball FighterZ)
+M05	Sinister Shadows (Kingdom Hearts II)
+M04	The 13th Struggle (Kindgom Hearts II)
+M03	Dark Impetus (Kingdom Hearts: Birth By Sleep)
+
+
+***Smashville - 5,5
+
+N01	Bustin' Up on the Beach (Kingdom Hearts)
+N02	Destiny Islands (Kingdom Hearts)
+	Sora (Kingdom Hearts)
+N03	Hawaii 5-0 Theme
+N06	Fresh Fruit Balls (Kingdom Hearts: Birth By Sleep)
+N05	Oceanic Breeze (Early Access) (Rivals of Aether)
+
+
+***Battlefield - 5
+
+X04	Goku (Dragon Ball FighterZ)
+T02	Goku Black (Dragon Ball FighterZ)
+X25	Planet Namek (Destroyed) (Dragon Ball FighterZ)
+W21	Enter the Darkness (Kingdom Hearts: Birth By Sleep)
+W23	Mysterious Figure (Kingdom Hearts: Birth By Sleep)
+
+
+***PS2 - 5
+
+H01	Battle! Totem Pokémon (Pokémon Sun & Moon)
+H03	Mt. Lanakila (Victory Road) (Pokémon Sun & Moon)
+H04	The Battle at the Summit! (Pokémon Sun & Moon)
+H02	Extreme Encounters (Kingdom Hearts: Birth By Sleep)
+H05	Pirate's Road (Harmony of Heroes)
+
+
+***Dreamland - 2
+
+W07	Radiant Garden (Kingdom Hearts: Birth By Sleep)
+W06	The Silent Forest (Kingdom Hearts: Birth By Sleep)
+
+
+***GHZ - 12
+
+U01	Cell Games Arena (Dragon Ball FighterZ)
+U04	Ginyu (Dragon Ball FighterZ)
+U02	Gohan (Dragon Ball FighterZ)
+U03	Planet Namek (Dragon Ball FighterZ)
+U06	Rocky Field (Noon) (Dragon Ball FighterZ)
+U07	Vegeta (Dragon Ball FighterZ)
+U08	Hazardous Highway (Kingdom Hearts II)
+U09	Beat of the Rising Sun (Initial D)
+U10	Deja Vu (Initial D)
+U11	Gas Gas Gas (Initial D)
+U12	No One Sleep In Tokyo (Initial D)
+U13	Running In The 90's (Initial D)
+
+
+***FD - 5
+
+X05	Beerus (Dragon Ball FighterZ)
+T01	Cavern (Dragon Ball FighterZ)
+T03	Frieza (Dragon Ball FighterZ)
+W25	Space (Dragon Ball FighterZ)
+W31	A Fight to the Death (Kingdom Hearts II)
+
+
+***FoD - 5
+	
+A17	Blast Away! ~Gummi Ship 3~ (Kingdom Hearts)
+Q02	Monstrous Monstro (Kingdom Hearts)
+Q01	Sinister Sundown (Kingdom Hearts II)
+Q13	Big Race (Kingdom Hearts: Birth By Sleep)
+Q14	Terra (Kingdom Hearts: Birth By Sleep)
+
+
+***Menu - 4
+
+X02		It's So Wonderful (The World Ends With You)
+		Hawaii 5-0 Theme
+X03		Misirlou - Dick Dale
+W30		Pipeline (EL34XYZ Guitar Cover)
+X01		Wipe Out! Cover by Eric
+
+
+***Results - 1
+
+X08	Another Side Another Story (Kingdom Hearts II)
+
+Removed some BRSTMs to reduce build space to be used hackless
